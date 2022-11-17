@@ -31,9 +31,9 @@ Bootstrap es una biblioteca multiplataforma o conjunto de herramientas de códig
 - Subimos el archibo a github
 
 ### Colaboradores
-- Alisson Nayibe Rincon cardenas- Universidad de Manizales
-- Sergio Alejandro Toro Ramirez - Universidad de Manizales
-- Nicol Dahiana Salgado Giraldo - Universidad de Manizales
+- Alisson Nayibe Rincon cardenas- Universidad de Manizales.
+- Sergio Alejandro Toro Ramirez - Universidad de Manizales.
+- Nicol Dahiana Salgado Giraldo - Universidad de Manizales.
 
 ## Gracias :yum:
 Estamos Aprendiendo
